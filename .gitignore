@@ -10,10 +10,11 @@ bin/
 pkg/
 
 
+
 *.a
 *.prof
 
-
+rofls.txt
 go.mod
 go.sum
 .env
